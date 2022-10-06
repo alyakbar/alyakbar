@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyakbar&show_icons=true&theme=gruvbox)   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alyakbar&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-                                        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyakbar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  [![trophy](https://github-profile-trophy.vercel.app/?username=alyakbar)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alyakbar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  [![trophy](https://github-profile-trophy.vercel.app/?username=alyakbar)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)    ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
