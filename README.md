@@ -1,5 +1,5 @@
 # Hi there,I'm Alyakbar :wave:	
-
+![](images/snow.jpg)
 - 🌱 I’m currently learning Python, Solidity, React, Nextjs and Flutter
 
 
