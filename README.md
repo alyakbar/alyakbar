@@ -6,11 +6,7 @@
 
 </div>
 
----
 
-<div align="center">
-  <img src="images/snow.jpg" alt="Banner" width="100%" style="border-radius: 15px; margin: 20px 0;" />
-</div>
 
 <div align="center">
 
