@@ -34,14 +34,15 @@ const alyakbar = {
 
 ## 🔥 What I'm Currently Up To
 
-- 🔭 **Working on:** Building innovative web applications and smart contracts
-- 🌱 **Learning:** Advanced blockchain development and mobile app architecture
-- 👯 **Collaborating:** Open source projects and Web3 initiatives
-- 💬 **Ask me about:** JavaScript, React, Blockchain, or anything tech-related!
-- 📫 **Reach me:** Through GitHub or LinkedIn
-- ⚡ **Fun fact:** I can code for hours with just coffee and good music 🎵i there,I'm Alyakbar :wave:	
-![](images/snow.jpg)
-- 🌱 I’m currently learning Python, Solidity, React, Nextjs and Flutter
+> **Welcome to the Future! 🚀**
+
+- 🧠 **Inventing Tomorrow:** Architecting AI-powered platforms, decentralized apps, and immersive digital experiences.
+- � **Exploring the Metaverse:** Building bridges between Web3, AR/VR, and next-gen social networks.
+- 🤝 **Collaborating Globally:** Connecting with visionaries, open-source pioneers, and blockchain innovators.
+- 🦾 **Learning:** Quantum computing, advanced cryptography, and futuristic UI/UX.
+- 💬 **Ask me about:** AI, smart contracts, digital identity, or the next big thing in tech!
+- � **Reach me:** On-chain, online, or in the metaverse.
+- ⚡ **Fun fact:** My IDE theme changes with the phases of the moon 🌙
 
 
 
